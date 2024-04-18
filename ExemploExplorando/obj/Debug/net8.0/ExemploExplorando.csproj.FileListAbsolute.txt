@@ -13,3 +13,6 @@ C:\Users\jgabr\Documents\DIO\C#Modulo1\.NET-DIO-Bootcamp-Modulo2\ExemploExploran
 C:\Users\jgabr\Documents\DIO\C#Modulo1\.NET-DIO-Bootcamp-Modulo2\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.pdb
 C:\Users\jgabr\Documents\DIO\C#Modulo1\.NET-DIO-Bootcamp-Modulo2\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.genruntimeconfig.cache
 C:\Users\jgabr\Documents\DIO\C#Modulo1\.NET-DIO-Bootcamp-Modulo2\ExemploExplorando\obj\Debug\net8.0\ref\ExemploExplorando.dll
+C:\Users\jgabr\Documents\DIO\C#Modulo1\.NET-DIO-Bootcamp-Modulo2\ExemploExplorando\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\jgabr\Documents\DIO\C#Modulo1\.NET-DIO-Bootcamp-Modulo2\ExemploExplorando\obj\Debug\net8.0\ExemploExplorando.csproj.AssemblyReference.cache
+C:\Users\jgabr\Documents\DIO\C#Modulo1\.NET-DIO-Bootcamp-Modulo2\ExemploExplorando\obj\Debug\net8.0\ExemploE.B7F01285.Up2Date
